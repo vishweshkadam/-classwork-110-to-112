@@ -1,0 +1,67 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: palevioletred;
+
+}
+
+header_div {
+    background: white;
+    color: #ce2700;
+}
+
+.header_div img {
+    width: 100px
+}
+
+.main_div {
+    background: #ffd2c7;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 10px white;
+}
+
+#camera,
+#snapshot {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px  20px rgb(255, 255, 255);
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid ;
+}
+.result{
+    margin-bottom:50px;
+}
+.result img{
+    width: 70px;
+}
+.result h4{
+    background-color: #fcfcfc;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 40px;
+    box-shadow:  7px 7px  20px rgb(255, 255, 255),11px 11px  20px rgb(98, 255, 168);
+}
+#footer{
+    background-color: white;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    line-height: 4;
+    font-size: medium;
+}
